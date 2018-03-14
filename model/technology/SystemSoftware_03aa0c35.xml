@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAC"
+    id="03aa0c35"
+    documentation="1. invocado por ConsultaDeudaClienteWS, consultar la deuda de todas las cuentas del cliente &#xD;&#xA;&#xD;&#xA;2. invocado por BSS_ConsultaDeudaCliente, consultar la deuda de todas las cuentas del cliente &#xD;&#xA;&#xD;&#xA;3. invocado por ConsultaSaldoDeudorWS, consulta deuda&#xD;&#xA;&#xD;&#xA;4. invocado por ConsultaPagos, Tiene como objetivo devolver los documentos por cobrar que el cliente adeuda&#xD;&#xA;&#xD;&#xA;5. Invocado por ConsultaEstadoCuenta, consulta deuda actual, fecha de vencimiento y la deuda total de una cuenta.&#xD;&#xA;&#xD;&#xA;"/>

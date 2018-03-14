@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultar el monto de reconexión del servicio (Fija)"
+    id="ba7916c4"
+    documentation="Consultar el monto de reconexión del servicio por bloqueo por cobranza"/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSCS 7"
+    id="61d8bf57"
+    documentation="1.-Invocado por ConsultaDatosIVRWS, Método que obtiene el monto por reconexión de servicio del cliente en BSCS.&#xD;&#xA;&#xD;&#xA;2.-invocado por ConsultaDeudaClienteWS , Para consultar los bloqueos de cuenta &#xD;&#xA;&#xD;&#xA;3. Invocado por el IVR-IPCC para obtener el CustomerID en base al MSISDN."/>

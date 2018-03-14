@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EnvioSms"
+    id="b439acf0-bc32-47ad-89d1-ada248f2fca8"
+    documentation="El monto de su ultimo recibo es S/. [Deuda actual]. Su fecha de vencimiento es [DD/MM]. Tiene una deuda total de S/. [Deuda Total] actualizado al día DD a las HH horas."/>

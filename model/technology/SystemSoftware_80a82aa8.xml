@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSCS 9"
+    id="80a82aa8"
+    documentation="1.-Invocado por INT-CHQ-CAA-5005, Método que obtiene el monto por reconexión de servicio del cliente en BSCS.&#xD;&#xA;&#xD;&#xA;2.-invocado por  INT-CHQ-CAA-5005 , Para consultar los bloqueos de cuenta "/>
